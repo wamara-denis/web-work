@@ -1,0 +1,47 @@
+#pic1{
+    width: 50%;
+    height:40%;
+    length:100%;
+    opacity: 80%;
+}
+#body{
+    background-image: url(./background.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    width: 100%;
+    height: 100%;
+}
+.title{
+    color:gold;
+    font-size: medium;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.form{
+    box-sizing: content-box;
+    background-image: url(./form.jpe);
+    background-repeat: no-repeat;
+    height: 100%;
+    width: 50%;
+    align-items: center;
+    height: 70%;
+}
+.age{
+    width: 10%;
+}
+.content{
+    color: aqua;
+    font-family: monospace;
+    font-size: x-large;
+}
+.heading{
+    font-size:xx-large;
+    color: gold;
+
+}
+.space{
+    width: 50%;
+}
+.founders{
+    width: 80%;
+    align-items: center;
+}
